@@ -1,6 +1,6 @@
 # pdfWaterMarker
 
-Sample python PDF Watermarker built using the tkinter library.
+Sample python PDF Watermarker built using the PyPDF2 library with tkinter GUI.
 
 ![screenshot1](/images/screenshot1.jpg?raw=true)
 
