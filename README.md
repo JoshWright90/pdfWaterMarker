@@ -2,7 +2,7 @@
 
 Sample python PDF Watermarker built using the PyPDF2 library with tkinter GUI.
 
-![screenshot1dfsdf](images/screenshot1.jpg?raw=true)
+![screenshot1dfsdf](images/screenshot1.jpg)
 ![screenshot1](https://raw.githubusercontent.com/JoshWright90/pdfWaterMarker/main/images/screenshot1.jpg)
 
 
